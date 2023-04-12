@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">DataBase</string>
-    <string name="button_text">click</string>
+    <string name="button_text">create</string>
+    <string name="show">show</string>
 </resources>

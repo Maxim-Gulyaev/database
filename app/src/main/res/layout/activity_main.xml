@@ -13,8 +13,16 @@
         android:text="@string/button_text"
         app:layout_constraintBottom_toTopOf="@id/textView"
         app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button_show"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/show"
         app:layout_constraintTop_toTopOf="parent"
-        />
+        app:layout_constraintStart_toEndOf="@id/button"/>
+
     <TextView
         android:id="@+id/textView"
         android:layout_width="wrap_content"
