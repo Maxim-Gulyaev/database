@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">DataBase</string>
-    <string name="button_text">create</string>
-    <string name="show">show</string>
+    <string name="button_text">create database</string>
+    <string name="show">show data</string>
 </resources>
